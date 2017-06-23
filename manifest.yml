@@ -1,0 +1,6 @@
+---
+applications:
+- name: CityLife
+  memory: 512M
+  host: citylife
+  domain: eu-gb.mybluemix.net
